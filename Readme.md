@@ -8,7 +8,7 @@ This project provides a command-line AI assistant that helps you execute tasks b
 
 -Uses an AI model to:
 
-    -Break the task into step-by-step instructions.
+    -**Break the task into step-by-step instructions.**
 
     -Suggest shell commands (prefixed with $).
 
